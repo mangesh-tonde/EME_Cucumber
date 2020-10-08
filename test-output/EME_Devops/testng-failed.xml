@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EME_Devops]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="EME_Regression(failed)">
+    <classes>
+      <class name="DevopsInt.EME.EME_homePage">
+        <methods>
+          <include name="pageChecks"/>
+          <include name="teardown"/>
+          <include name="initialise"/>
+        </methods>
+      </class> <!-- DevopsInt.EME.EME_homePage -->
+    </classes>
+  </test> <!-- EME_Regression(failed) -->
+</suite> <!-- Failed suite [EME_Devops] -->

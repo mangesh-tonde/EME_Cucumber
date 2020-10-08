@@ -1,0 +1,7 @@
+03:54:52.542 [main] INFO  DevopsInt.EME.Base - Verified EME logo
+03:54:56.756 [main] INFO  DevopsInt.EME.Base - Email and Password Mismatch! Unable to Login!!
+03:55:13.096 [main] INFO  DevopsInt.EME.Base - Launched URL
+03:55:13.281 [main] INFO  DevopsInt.EME.Base - Verified EME logo
+03:55:15.930 [main] INFO  DevopsInt.EME.Base - No User Found with the provided email! Unable to Login!!
+04:00:24.239 [main] INFO  DevopsInt.EME.Base - Launched URL
+04:00:24.426 [main] INFO  DevopsInt.EME.Base - Verified EME logo
